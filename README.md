@@ -45,7 +45,9 @@
 - 📚 Exploring Machine Learning Concepts and techniques  
 - 🤝 Open to colloborating on data science projects  
 
-## 🌐 Socials  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshini-r-619826244?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+## 🌐 Connect with Me  
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshini-r-619826244)  
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/R_Harshini_04/)
 
 📌 *Let's connect and build something amazing together!* 🚀  
